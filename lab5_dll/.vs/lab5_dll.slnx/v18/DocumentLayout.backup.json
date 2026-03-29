@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5C2554-8003-4D92-9ACB-52F1205B4D4C}|lab5_dll\\lab5_dll.vcxproj|C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\array_lib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D5C2554-8003-4D92-9ACB-52F1205B4D4C}|lab5_dll\\lab5_dll.vcxproj|solutionrelative:lab5_dll\\array_lib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5C2554-8003-4D92-9ACB-52F1205B4D4C}|lab5_dll\\lab5_dll.vcxproj|C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D5C2554-8003-4D92-9ACB-52F1205B4D4C}|lab5_dll\\lab5_dll.vcxproj|solutionrelative:lab5_dll\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5C2554-8003-4D92-9ACB-52F1205B4D4C}|lab5_dll\\lab5_dll.vcxproj|C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D5C2554-8003-4D92-9ACB-52F1205B4D4C}|lab5_dll\\lab5_dll.vcxproj|solutionrelative:lab5_dll\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5C2554-8003-4D92-9ACB-52F1205B4D4C}|lab5_dll\\lab5_dll.vcxproj|C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\array_lib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D5C2554-8003-4D92-9ACB-52F1205B4D4C}|lab5_dll\\lab5_dll.vcxproj|solutionrelative:lab5_dll\\array_lib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5C2554-8003-4D92-9ACB-52F1205B4D4C}|lab5_dll\\lab5_dll.vcxproj|C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D5C2554-8003-4D92-9ACB-52F1205B4D4C}|lab5_dll\\lab5_dll.vcxproj|solutionrelative:lab5_dll\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\pch.cpp",
+              "RelativeDocumentMoniker": "lab5_dll\\pch.cpp",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\pch.cpp",
+              "RelativeToolTip": "lab5_dll\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T10:36:43.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\pch.h",
+              "RelativeDocumentMoniker": "lab5_dll\\pch.h",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\pch.h",
+              "RelativeToolTip": "lab5_dll\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-27T10:28:53.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\dllmain.cpp",
+              "RelativeDocumentMoniker": "lab5_dll\\dllmain.cpp",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\dllmain.cpp",
+              "RelativeToolTip": "lab5_dll\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T10:28:40.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "array_lib.h",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\array_lib.h",
+              "RelativeDocumentMoniker": "lab5_dll\\array_lib.h",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\array_lib.h",
+              "RelativeToolTip": "lab5_dll\\array_lib.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-27T10:22:42.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "array_lib.cpp",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\array_lib.cpp",
+              "RelativeDocumentMoniker": "lab5_dll\\array_lib.cpp",
+              "ToolTip": "C:\\\u0423\u0447\u0435\u0431\u0430 2\\\u041E\u0410\u0418\u041F\\lab5_dll\\lab5_dll\\array_lib.cpp",
+              "RelativeToolTip": "lab5_dll\\array_lib.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T10:12:37.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
